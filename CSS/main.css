@@ -1,0 +1,23 @@
+*{
+		/*background-color: green;*/
+		font-family: sans-serifs;
+	}
+	body{
+		margin-right: 50px;
+		margin-left: 50px;
+	}
+	table style="background-image:url(/images/my matric pics.jpg);">
+<tr><td>
+This table has background image set.
+</td></tr>
+</table>
+
+	p{
+		font-size: 20px;
+	}		
+	.lists{
+
+	}
+	ul .lists{
+		list-style: none;
+	}
